@@ -9,13 +9,13 @@
 After recommendations from you guys, I've swapped out Alacritty for [WezTerm](https://wezfurlong.org/wezterm/index.html)!
 Everything is the same except the Alacritty config file, you can swap it out with this [~/.wezterm.lua](.wezterm.lua) file and everything should look and work very similar to Alacritty!
 
-🏼 ✍Blog Post Step-by-Step Guide: [How To Make Your Boring Mac Terminal Amazing With Alacritty](https://josean.com/posts/how-to-setup-alacritty-terminal)
+🏼 ✍Blog Post Step-by-Step Guide: [How To Make Your Boring Mac Terminal Amazing With Alacritty](https://pankajd.com/posts/how-to-setup-alacritty-terminal)
 
 📹 Youtube Guide: [How To Make Your Boring Mac Terminal Amazing With Alacritty](https://youtu.be/uOnL4fEnldA)
 
 You'll also need to install extra cli tools as described in this blog post and video:
 
-✍🏼 Blog Post : [7 Amazing CLI Tools You Won't Be Able To Live Without](https://josean.com/posts/7-amazing-cli-tools)
+✍🏼 Blog Post : [7 Amazing CLI Tools You Won't Be Able To Live Without](https://pankajd.com/posts/7-amazing-cli-tools)
 
 📹 Youtube Video: [7 Amazing CLI Tools You Won't Be Able To Live Without](https://www.youtube.com/mmqDYw9C30I)
 
@@ -35,7 +35,7 @@ You'll also need to install extra cli tools as described in this blog post and v
 
 # Tmux Setup
 
-✍🏼 Blog Post: [How To Use and Configure Tmux Alongside Neovim](https://josean.com/posts/tmux-setup)
+✍🏼 Blog Post: [How To Use and Configure Tmux Alongside Neovim](https://pankajd.com/posts/tmux-setup)
 
 📹 Youtube Guide: [How I Setup And Use Tmux Alongside Neovim for an Awesome Dev Workflow](https://youtu.be/U-omALWIBos)
 
@@ -45,7 +45,7 @@ You'll also need to install extra cli tools as described in this blog post and v
 
 # Yabai Tiling Window Manager Setup
 
-✍🏼 Blog Post: [How To Setup And Use The Yabai Tiling Window Manager On Mac](https://josean.com/posts/yabai-setup)
+✍🏼 Blog Post: [How To Setup And Use The Yabai Tiling Window Manager On Mac](https://pankajd.com/posts/yabai-setup)
 
 📹 Youtube Guide: [How To Setup And Use The Yabai Tiling Window Manager On Mac](https://youtu.be/k94qImbFKWE)
 
@@ -56,7 +56,7 @@ You'll also need to install extra cli tools as described in this blog post and v
 
 # Sketchybar Custom Menu Bar Setup
 
-✍🏼 Blog Post: [How To Make An Amazing Custom Menu Bar For Your Mac With Sketchybar](https://josean.com/posts/sketchybar-setup)
+✍🏼 Blog Post: [How To Make An Amazing Custom Menu Bar For Your Mac With Sketchybar](https://pankajd.com/posts/sketchybar-setup)
 
 📹 Youtube Guide: [How To Make An Amazing Custom Menu Bar For Your Mac With Sketchybar](https://youtu.be/k94qImbFKWE)
 
@@ -80,9 +80,9 @@ You'll also need to install extra cli tools as described in this blog post and v
 
 **Important**: This is my latest config with lazy.nvim. It is similar, but not the same as my original packer setup.
 
-If you are coming from my full neovim setup video with packer, that config is found here: [Packer Config](https://github.com/josean-dev/dev-environment-files/tree/packer-nvim-setup)
+If you are coming from my full neovim setup video with packer, that config is found here: [Packer Config](https://github.com/pankajd-dev/dev-environment-files/tree/packer-nvim-setup)
 
-✍🏼 Blog Post: [How I Setup Neovim On My Mac To Make It AMAZING In 2024](https://josean.com/posts/how-to-setup-neovim-2024)
+✍🏼 Blog Post: [How I Setup Neovim On My Mac To Make It AMAZING In 2024](https://pankajd.com/posts/how-to-setup-neovim-2024)
 📹 Complete Neovim Setup Guide: [How I Setup Neovim On My Mac To Make It AMAZING In 2024](https://youtu.be/6pAG3BHurdM)
 
 _If you clone the repo into your machine and use the config by copying .config/nvim to your home folder, wait for the plugins, language servers and parsers to install with lazy.nvim, Mason and nvim-treesitter.
